@@ -1,4 +1,4 @@
-- hi am Nithish
+- hi am Nidhish
 - really nothing much to say ..........(-_-)
 <!---
 nithishkohi/nithishkohi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
